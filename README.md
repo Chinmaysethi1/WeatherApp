@@ -1,0 +1,1 @@
+A simple and responsive Weather Application that fetches real-time weather data using the Current Weather API. Users can search for any city and instantly view current weather conditions like temperature, humidity, and weather status.
